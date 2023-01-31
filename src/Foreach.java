@@ -5,7 +5,7 @@ public class Foreach {
                 "Andi", "Ahmad", "Yusup", "Anak", "Sekolahan"
         };
 
-        // Access array data using forloop
+        // Access array data using for loop
         for (var i = 0; i < array.length; i++){
             System.out.println(array[i]);
         }
